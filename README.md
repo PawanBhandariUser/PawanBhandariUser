@@ -54,13 +54,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanBhandariUser&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&hide_border=true)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanBhandariUser&show_icons=true&hide_border=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&hide_border=true&theme=radical" />
+</p>
 
 ## 🧠 Current Focus
 
