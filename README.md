@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pawan
 
-🚀 ML & AI Engineer  
-🐍 Python Specialist  
-🧠 Building intelligent systems with deep learning & transformers  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+%26+AI+Engineer;Deep+Learning+Specialist;LLM+%26+Generative+AI+Builder;Computer+Vision+Engineer" />
+</p>
 
 ---
 
@@ -10,47 +10,40 @@
 
 - 🤖 Machine Learning & Artificial Intelligence Engineer  
 - 🧪 Strong focus on Deep Learning & Generative Models  
+- 🧠 Building LLM systems with tool integration  
 - 📊 Data-driven problem solving  
-- 🧩 Love turning complex math into working systems  
 - 🚀 Constantly building, experimenting, optimizing  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 AI / ML
-- PyTorch
-- Transformers (HuggingFace)
-- LLMs with logical capabilities
-- Deep Neural Networks
-- Computer Vision
-- Model Optimizitation and Integration
+### 🧠 Core Technologies
 
-### 🐍 Python Ecosystem
-- torch
-- transformers
-- pandas
-- numpy
-- PIL
-- matplotlib
-- fastapi
-- json
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,git,linux,vscode" />
+</p>
 
-### ⚙️ Tools
-- Git & GitHub
-- Jupyter
-- Google Colab
-- Virtual Environments
+---
+
+### 📦 Libraries & Frameworks
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
 ## 🧪 Areas of Interest
 
-- Large Language Models
-- Generative AI and Computer Vision problems
-- Model Optimization, Finetuning and tool integration
-- AI Integration into Systems
-- Applied Mathematics in AI
+- Large Language Models  
+- Generative AI & Computer Vision  
+- Model Optimization & Fine-Tuning  
+- Tool-augmented AI Systems  
+- Applied Mathematics in AI  
 
 ---
 
@@ -62,20 +55,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&hide_border=true&theme=radical" />
 </p>
 
+---
+
 ## 🧠 Current Focus
 
-- Transformers based LLMs with tools
-- Compurter Vision algorithms
-- OCR via complex neural networks
-
+- Transformer-based LLM systems with tools  
+- Computer Vision architectures  
+- Advanced OCR with neural networks  
+- Model deployment & system integration  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/PawanBhandariUser
+- GitHub: https://github.com/PawanBhandariUser  
 - LinkedIn: https://www.linkedin.com/in/pawan-bhandari-6241bb376/
 
 ---
 
-⭐ Always building. Always learning. Always optimizing and minimizing my loss function.
+<p align="center">
+  ⭐ Always building. Always learning. Always optimizing the loss function.
+</p>
