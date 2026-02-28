@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pawan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+%26+AI+Engineer;Deep+Learning+Specialist;LLM+%26+Generative+AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ML+%26+AI+Engineer;Deep+Learning+Specialist;Python+Expert" />
 </p>
 
 ---
@@ -21,12 +21,10 @@
 ### 🧠 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,vscode" /></p><p align="center"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
+
 ---
 
 ### 📦 Libraries & Frameworks
