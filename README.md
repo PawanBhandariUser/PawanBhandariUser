@@ -11,7 +11,7 @@
 - 🤖 Machine Learning & Artificial Intelligence Engineer  
 - 🧪 Strong focus on Deep Learning & Generative Models  
 - 🧠 Building LLM systems with tool integration  
-- 📊 Data-driven problem solving  
+- 📊 Data Analysis and Management
 - 🚀 Constantly building, experimenting, optimizing  
 
 ---
