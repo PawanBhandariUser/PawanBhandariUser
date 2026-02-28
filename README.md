@@ -23,9 +23,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,vscode" /></p><p align="center"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
-
-
 ---
+
 
 ### 📦 Libraries & Frameworks
 
