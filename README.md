@@ -52,9 +52,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PawanBhandariUser&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=PawanBhandariUser&theme=radical" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PawanBhandariUser&theme=react-dark" />
 </p>
 
 ---
