@@ -50,12 +50,12 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanBhandariUser&show_icons=true&hide_border=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&hide_border=true&theme=radical" />
-</p>
 
+<p align="center">
+  <img src="https://private-ma275nops-pawanbhandariusers-projects.vercel.app.vercel.app/api?username=PawanBhandariUser&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://private-ma275nops-pawanbhandariusers-projects.vercel.app.vercel.app/api/top-langs/?username=PawanBhandariUser&layout=compact&theme=radical" />
+</p>
 ---
 
 ## 🧠 Current Focus
