@@ -48,18 +48,9 @@
 
 ---
 
-## 📊 GitHub Analytics
+## Top Projects at below pinned section
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PawanBhandariUser&theme=radical" />
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanBhandariUser&theme=react-dark&hide_border=true" />
-</p>
-
----
+- Homework Machine
 
 ## 🧠 Current Focus
 
